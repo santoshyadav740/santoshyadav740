@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Yadav</h1>
-<h3 align="center">DevOps & Cloud Engineer | Linux • AWS • Docker • Kubernetes • Terraform</h3>
+<h3 align="center">Multi-Cloud DevOps Engineer | AWS • Azure • GCP | Linux • Docker • Kubernetes • Terraform</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=santoshyadav740&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,17 +8,18 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 **DevOps & Cloud Engineer** with **8+ years of hands-on engineering experience** in complex systems, UAV/drone testing, and network troubleshooting.
-- 🔧 Passionate about **automating infrastructure, CI/CD pipelines, containerization, and building reliable cloud environments**.
-- 🌱 Currently building end-to-end projects on **AWS, Kubernetes, Terraform, and GitHub Actions**.
+- 🚀 **Multi-Cloud DevOps & Cloud Engineer** backed by **8+ years of hands-on engineering experience** in UAV/drone systems testing and broadband network infrastructure.
+- 🔍 Strong foundation in **Root Cause Analysis (RCA), log/telemetry diagnostics, networking (TCP/IP, DNS), and high-availability troubleshooting**.
+- ⚙️ Focused on **automating CI/CD pipelines, containerizing workloads, and provisioning scalable cloud infrastructure** across **AWS, Azure, and GCP**.
 - 📍 Based in **Varanasi, Uttar Pradesh, India**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### ☁️ Cloud & Infrastructure as Code
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+#### ☁️ Multi-Cloud & Infrastructure as Code
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -42,7 +43,7 @@
 
 ### 📌 Featured Work
 - **[Automated CI/CD Build Pipeline](https://github.com/santoshyadav740/vakil-sahab-app)** — Automated build workflow configured using GitHub Actions.
-- **[Explore All Repositories](https://github.com/santoshyadav740?tab=repositories)** — Check out my latest Linux, AWS, Docker, and Terraform practice projects.
+- **[All Repositories](https://github.com/santoshyadav740?tab=repositories)** — Explore my Linux, AWS, Azure, GCP, Docker, and Terraform projects.
 
 ---
 
@@ -54,3 +55,11 @@
 </p>
 
 ---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/santosh-kumar-yadav-21ba6043" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
